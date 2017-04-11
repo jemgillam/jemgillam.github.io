@@ -46,9 +46,9 @@ links:
 widgets:
 - search
 - category
-- tagcloud
 - recent_posts
 - links
+- tagcloud
 
 rss:
 fancybox: true
