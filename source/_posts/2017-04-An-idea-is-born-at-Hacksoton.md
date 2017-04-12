@@ -33,7 +33,7 @@ In the future I want to add a shopping list showing which yarns and how much of 
 
 {% asset_img Jem-shows-off-the-hacksoton-blanket.jpg My talk at the end of the day showing off my blanket and my app photo: Phil Dye %}
 
-The day was rounded out with a visit to the pub with some of our Hacksoton friends. It was at this point that the blanket really came into its own and went from cool thing I had made to being used as an actual blanket!
+The day was rounded out with a visit to the pub with some of our Hacksoton friends. It was at this point that the blanket really came into its own and went from cool thing I had made to a warm thing to wrap yourself in!
 
 {% twitter https://twitter.com/brandonhawkes/status/848287925519437826 %}
 
