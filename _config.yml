@@ -7,7 +7,7 @@ title: Jem's Yarns
 subtitle:
 description:
 author: Jem
-language: en
+language: en-GB
 timezone:
 
 # URL
@@ -79,3 +79,6 @@ deploy:
   type: git
   repo: git@github.com:jemgillam/jemgillam.github.io
   branch: master
+
+# Disqus comments
+disqus_shortname: jems-yarns

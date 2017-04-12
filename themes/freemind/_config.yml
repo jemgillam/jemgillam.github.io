@@ -58,6 +58,3 @@ baidu_tongji:
 addthis: false
 bdshare: false
 jiathis: false
-
-# Disqus comments
-disqus_shortname: jems-yarns
