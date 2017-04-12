@@ -538,9 +538,10 @@ td {
   *zoom: 1;
 }
 
-.image-caption {
+.image-caption, .footnote {
   font-size: 0.8em;
   font-style: italic;
   color: grey;
   text-align: center;
+  margin: 20px;
 }

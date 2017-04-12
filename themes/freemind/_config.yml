@@ -22,18 +22,6 @@ menu:
     icon: "fa fa-user"
 
 links:
-  - title: "Jem's Graphs"
-    url: https://jemsgraphs.com
-    intro: "Jem's awesome crochet pattern generator"
-    icon: "fa fa-hand-o-right"
-  - title: "Ravelry"
-    url: http://www.ravelry.com/people/JemsYarns
-    intro: "Jem's Ravelry Page"
-    icon: "fa fa-ravelry"
-  - title: "Pinterest"
-    url: https://uk.pinterest.com/jemgillam/
-    intro: "Jem's Pinterest Profile"
-    icon: "fa fa-pinterest"
   - title: "Instagram"
     url: http://www.instagram.com/jemgillam
     intro: "Jem's Instagram Profile"

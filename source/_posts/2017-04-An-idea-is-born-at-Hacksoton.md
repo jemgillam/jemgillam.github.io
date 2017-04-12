@@ -9,7 +9,7 @@ tags:
 categories:
 - Jem's Graphs
 ---
-{% asset_img hacksoton-overview.jpg Makers desend on Southampton Central Hall %}
+{% asset_img hacksoton-overview.jpg Makers descend on Southampton Central Hall photo: Phil Dye %}
 
 As a maker at heart, I love events like [Hacksoton](http://www.hacksoton.com). It's a chance to come together with like minded people for an entire day of caffeine-fueled hacking, making and programming. Many useful tools have been made in previous years (like my [Wissues App](http://wissues.net) for GitHub issue sorting) as well as lots of toys ([like this](https://smt.codes/post/hacksoton-3))
 
@@ -31,10 +31,12 @@ So come the day I turned up with my blanket and laptop and got to work. While Sp
 
 In the future I want to add a shopping list showing which yarns and how much of each to buy, plus an estimate of the cost. It would also be cool to allow the user to alter the generated image with a paint tool, and generate a written pattern to follow.
 
-{% asset_img Jem-shows-off-the-hacksoton-blanket.jpg My talk at the end of the day showing off my blanket and my app %}
+{% asset_img Jem-shows-off-the-hacksoton-blanket.jpg My talk at the end of the day showing off my blanket and my app photo: Phil Dye %}
 
 The day was rounded out with a visit to the pub with some of our Hacksoton friends. It was at this point that the blanket really came into its own and went from cool thing I had made to being used as an actual blanket!
 
 {% twitter https://twitter.com/brandonhawkes/status/848287925519437826 %}
 
 All in all, another enjoyable day and I actually managed to get a project finished in a day which is unusual for me! My many thanks to the [Hacksoton](www.hacksoton.com) team and their wonderful sponsors for supporting amateur, professional and first-time programmers in this free, supportive and exciting environment <i class="fa fa-heart" />
+
+<div class="footnote">Some of the awesome photos have come from <a href="https://www.flickr.com/photos/phildye/sets/72157679087098043/">Phil Dye</a></div>
