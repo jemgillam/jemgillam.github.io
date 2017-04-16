@@ -20,7 +20,7 @@ I had a look around for patterns for cube and cuboid amigurumi and arrived at a 
 
 {% asset_img amigurumi-square.jpg The clusters of dc, tr and dtr stitches at the corners give a neat right angle %}
 
-So here is the pattern for him, he's completely free to make but if you're thinking of selling him please contact me as I'd prefer for the profits from his sales go into the Minecraft &amp; Meltdowns group. [I also sell him (not-for-profit)](https://www.etsy.com/uk/shop/JemsYarns), so if you can't crochet you can still buy one at my [Etsy store]https://www.etsy.com/uk/shop/JemsYarns).
+So here is the pattern for him, he's completely free to make but if you're thinking of selling him please contact me as I'd prefer for the profits from his sales go into the Minecraft &amp; Meltdowns group. [I also sell him (not-for-profit)](https://www.etsy.com/uk/shop/JemsYarns), so if you can't crochet you can still buy one at my [Etsy store](https://www.etsy.com/uk/shop/JemsYarns).
 
 {% asset_img lots-of-amigurumi-parts.jpg Amigurumi can be a messy business, blink and suddenly you're surrounded by lots of plushie parts! %}
 
