@@ -82,3 +82,14 @@ deploy:
 
 # Disqus comments
 disqus_shortname: jems-yarns
+
+# Markdown-it config
+## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki/
+markdown:
+  render:
+    html: true # Doesn't escape HTML content
+    xhtmlOut: false
+    breaks: false
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
