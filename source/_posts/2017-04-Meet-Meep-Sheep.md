@@ -104,4 +104,4 @@ I usually choose the side of the body with the ridge of joins as the underside. 
 
 Meep Sheep is finished!
 
-If you make one, please send me a photo either by leaving me a comment with a link, or by finding the [Minecraft &amp; Meltdowns group](https://www.facebook.com/groups/aspergers.adventures/) and uploading it into there. I'd love to see your creation! If you have any questions about the pattern please leave a comment below. I've tried my best to keep it readable, but it sometimes got tricky with so many stitches being worked into the corner stitches.
+If you make one, please tag me in a photo on [twitter](http://twitter.com/jemsyarns) or [Instagram](http://instagram.com/jemsyarns), or by finding the [Minecraft &amp; Meltdowns group](https://www.facebook.com/groups/aspergers.adventures/) and uploading it into there. I'd love to see your creation! If you have any questions about the pattern please leave a comment below. I've tried my best to keep it readable, but it sometimes got tricky with so many stitches being worked into the corner stitches.
