@@ -37,6 +37,7 @@ links:
 
 widgets:
 - search
+- intro
 - category
 - recent_posts
 - links
