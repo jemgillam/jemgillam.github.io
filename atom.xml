@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jem&#39;s Yarns</title>
   
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.jemsyarns.com/"/>
+  <updated>2017-04-16T10:53:01.000Z</updated>
+  <id>http://www.jemsyarns.com/</id>
+  
+  <author>
+    <name>Jem</name>
     
-    <entry>
-      <title><![CDATA[Meet Meep Sheep]]></title>
-      <url>/2017/04/14/Meet-Meep-Sheep/</url>
-      <content type="html"><![CDATA[<img src="/2017/04/14/Meet-Meep-Sheep/Meep-Sheep-on-the-path.jpg" alt="Meet Meep Sheep, the orange mascot of Minecraft &amp; Meltdowns Autism support group" title="Meet Meep Sheep, the orange mascot of Minecraft &amp; Meltdowns Autism support group"><div class="image-caption">Meet Meep Sheep, the orange mascot of Minecraft &amp; Meltdowns Autism support group</div>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Meet Meep Sheep</title>
+    <link href="http://www.jemsyarns.com/2017/04/14/Meet-Meep-Sheep/"/>
+    <id>http://www.jemsyarns.com/2017/04/14/Meet-Meep-Sheep/</id>
+    <published>2017-04-14T12:34:03.000Z</published>
+    <updated>2017-04-16T10:53:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2017/04/14/Meet-Meep-Sheep/Meep-Sheep-on-the-path.jpg" alt="Meet Meep Sheep, the orange mascot of Minecraft &amp; Meltdowns Autism support group" title="Meet Meep Sheep, the orange mascot of Minecraft &amp; Meltdowns Autism support group"><div class="image-caption">Meet Meep Sheep, the orange mascot of Minecraft &amp; Meltdowns Autism support group</div>
 <p>Through my work with my local <a href="http://www.somakeit.org.uk" target="_blank" rel="external">Makerspace</a> I have met a wonderful woman called Michelle. She is the moderator of a large Facebook group called <a href="https://www.facebook.com/groups/aspergers.adventures/" target="_blank" rel="external">Asperger’s Adventures - Minecraft and Meltdowns</a>, a social group which acts as a support of Autism families. It has grown so much in the last couple of years that she now organises an annual event specifically catering for children with Autism and their families, which our Makerspace attends with our 3D printers and toys in tow. I went last year and took my crochet with me. Next thing I knew, I am hard at work crocheting their mascot named Meep Sheep.</p>
 <p>Meep Sheep is based on the sheep from Minecraft, he is a square shape and is bright orange to stand out in a flock of white. He looks the other way from the sheep because he feels different (but not any less!)</p>
 <p>I had a look around for patterns for cube and cuboid amigurumi and arrived at a distinct group of stitches which give a defined corner in the flat piece of crochet. By grouping a double crochet, treble and double treble together in one stitch, followed by a treble and double crochet in the next stitch you get a nice right angle suitable for making a square. The technique is a little tricky, but with practice it comes out lovely!</p>
@@ -95,34 +112,36 @@ legs</p>
 <p>Meep Sheep is finished!</p>
 <p>If you make one, please tag me in a photo on <a href="http://twitter.com/jemsyarns" target="_blank" rel="external">twitter</a> or <a href="http://instagram.com/jemsyarns" target="_blank" rel="external">Instagram</a>, or by finding the <a href="https://www.facebook.com/groups/aspergers.adventures/" target="_blank" rel="external">Minecraft &amp; Meltdowns group</a> and uploading it into there. I’d love to see your creation! If you have any questions about the pattern please leave a comment below. I’ve tried my best to keep it readable, but it sometimes got tricky with so many stitches being worked into the corner stitches.</p>
 ]]></content>
-      
-        <categories>
-            
-            <category> Patterns </category>
-            
-            <category> Craftivism </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Free Patterns </tag>
-            
-            <tag> Amigurumi </tag>
-            
-            <tag> Meep Sheep </tag>
-            
-            <tag> Minecraft and Meltdowns </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[An idea is born at Hacksoton]]></title>
-      <url>/2017/04/07/An-idea-is-born-at-Hacksoton/</url>
-      <content type="html"><![CDATA[<img src="/2017/04/07/An-idea-is-born-at-Hacksoton/hacksoton-overview.jpg" alt="Makers descend on Southampton Central Hall photo: Phil Dye" title="Makers descend on Southampton Central Hall photo: Phil Dye"><div class="image-caption">Makers descend on Southampton Central Hall photo: Phil Dye</div>
+    <summary type="html">
+    
+      &lt;img src=&quot;/2017/04/14/Meet-Meep-Sheep/Meep-Sheep-on-the-path.jpg&quot; alt=&quot;Meet Meep Sheep, the orange mascot of Minecraft &amp;amp; Meltdowns Autis
+    
+    </summary>
+    
+      <category term="Patterns" scheme="http://www.jemsyarns.com/categories/Patterns/"/>
+    
+      <category term="Craftivism" scheme="http://www.jemsyarns.com/categories/Patterns/Craftivism/"/>
+    
+    
+      <category term="Free Patterns" scheme="http://www.jemsyarns.com/tags/Free-Patterns/"/>
+    
+      <category term="Amigurumi" scheme="http://www.jemsyarns.com/tags/Amigurumi/"/>
+    
+      <category term="Meep Sheep" scheme="http://www.jemsyarns.com/tags/Meep-Sheep/"/>
+    
+      <category term="Minecraft and Meltdowns" scheme="http://www.jemsyarns.com/tags/Minecraft-and-Meltdowns/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>An idea is born at Hacksoton</title>
+    <link href="http://www.jemsyarns.com/2017/04/07/An-idea-is-born-at-Hacksoton/"/>
+    <id>http://www.jemsyarns.com/2017/04/07/An-idea-is-born-at-Hacksoton/</id>
+    <published>2017-04-07T22:19:42.000Z</published>
+    <updated>2017-04-12T18:46:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2017/04/07/An-idea-is-born-at-Hacksoton/hacksoton-overview.jpg" alt="Makers descend on Southampton Central Hall photo: Phil Dye" title="Makers descend on Southampton Central Hall photo: Phil Dye"><div class="image-caption">Makers descend on Southampton Central Hall photo: Phil Dye</div>
 <p>As a maker at heart, I love events like <a href="http://www.hacksoton.com" target="_blank" rel="external">Hacksoton</a>. It’s a chance to come together with like minded people for an entire day of caffeine-fueled hacking, making and programming. Many useful tools have been made in previous years (like my <a href="http://wissues.net" target="_blank" rel="external">Wissues App</a> for GitHub issue sorting) as well as lots of toys (<a href="https://smt.codes/post/hacksoton-3" target="_blank" rel="external">like this</a>)</p>
 <p>A couple years ago, there was one project called <a href="https://vimeo.com/127516925" target="_blank" rel="external">Spreadcam</a> by Brandon which my crafty friends and I thought would have an application for making quilt patterns. Essentially, Spreadcam takes the video feed from your webcam and turns it into a spreadsheet. We thought it was pretty cool, and wondered if we could use it to make a grid of squares for a picture quilt.</p>
 <img src="/2017/04/07/An-idea-is-born-at-Hacksoton/SpreadCam.png" alt="Isn't that cool? And it was in real time too!" title="Isn't that cool? And it was in real time too!"><div class="image-caption">Isn't that cool? And it was in real time too!</div>
@@ -139,28 +158,24 @@ legs</p>
 <p>All in all, another enjoyable day and I actually managed to get a project finished in a day which is unusual for me! My many thanks to the <a href="www.hacksoton.com">Hacksoton</a> team and their wonderful sponsors for supporting amateur, professional and first-time programmers in this free, supportive and exciting environment <i class="fa fa-heart"></i></p>
 <div class="footnote">Some of the awesome photos have come from <a href="https://www.flickr.com/photos/phildye/sets/72157679087098043/" target="_blank" rel="external">Phil Dye</a></div>
 ]]></content>
-      
-        <categories>
-            
-            <category> Jem&#39;s Graphs </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Hacksoton </tag>
-            
-            <tag> Programming </tag>
-            
-            <tag> Talks </tag>
-            
-            <tag> Corner to Corner </tag>
-            
-        </tags>
-        
-    </entry>
     
+    <summary type="html">
+    
+      &lt;img src=&quot;/2017/04/07/An-idea-is-born-at-Hacksoton/hacksoton-overview.jpg&quot; alt=&quot;Makers descend on Southampton Central Hall photo: Phil Dye&quot; 
+    
+    </summary>
+    
+      <category term="Jem&#39;s Graphs" scheme="http://www.jemsyarns.com/categories/Jem-s-Graphs/"/>
+    
+    
+      <category term="Hacksoton" scheme="http://www.jemsyarns.com/tags/Hacksoton/"/>
+    
+      <category term="Programming" scheme="http://www.jemsyarns.com/tags/Programming/"/>
+    
+      <category term="Talks" scheme="http://www.jemsyarns.com/tags/Talks/"/>
+    
+      <category term="Corner to Corner" scheme="http://www.jemsyarns.com/tags/Corner-to-Corner/"/>
+    
+  </entry>
   
-  
-</search>
+</feed>
