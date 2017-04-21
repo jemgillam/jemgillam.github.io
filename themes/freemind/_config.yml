@@ -24,11 +24,15 @@ menu:
 links:
   - title: "Instagram"
     url: http://www.instagram.com/jemgillam
-    intro: "Jem's Instagram Profile"
+    intro: "Jem's Instagram"
     icon: "fa fa-instagram"
+  - title: "Ravelry"
+    url: http://www.ravelry.com/projects/JemsYarns
+    intro: "Jem's Ravelry"
+    icon: "fa fa-ravelry"
   - title: "Twitter"
     url: http://www.twitter.com/jemgillam
-    intro: "Jem's Twitter Profile"
+    intro: "Jem's Twitter"
     icon: "fa fa-twitter"
 
 widgets:
@@ -38,7 +42,7 @@ widgets:
 - links
 - tagcloud
 
-rss:
+rss: /atom.xml
 fancybox: true
 favicon: favicon.png
 duoshuo_shortname:
