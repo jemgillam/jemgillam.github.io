@@ -26,4 +26,4 @@ Tonight it is #CraftHour and #HandmadeHour on twitter. I am joining in with my T
 
 {% asset_img FOX.png I love foxes, and have used the homepage demo to create this small fox graph which I will attempt to have crocheted by the end of #HandmadeHour tonight! %}
 
-PS for reading this far use the code <strong>BLOGBESTIES</strong> for 60% off of my Jem's Yarns site, so you can upload your own images to turn into graphs. Just it add in the coupon code box when you sign up! 
+PS for reading this far use the code <strong>BLOGBESTIES</strong> for 60% off of my [Jem's Graphs site](http://www,jemsgraphs.com), so you can upload your own images to turn into graphs. Just it add in the coupon code box when you sign up!
