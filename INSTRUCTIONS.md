@@ -5,6 +5,13 @@ Running the blog
 hexo server
 ```
 
+New blog post
+=================
+
+```
+hexo new 'three word title'
+```
+
 Building the blog
 =================
 
