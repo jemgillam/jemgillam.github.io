@@ -10,13 +10,13 @@ categories:
 
 Recently, I was fortunate enough to receive some brand new yarn from Cygnet Yarns. This is a chunky weight multicoloured yarn called Helter Skelter. I've looked on their site and it doesn't seem to be released yet!
 
-It works up really nicely, with blues and pinks twisting around each other. When worked up in double crochet you get lovely flecks of all the different colours.
+It works up really nicely, with blues and pinks twisting around each other. When worked up in treble crochet you get lovely flecks of all the different colours.
 
-{% asset_img helterskelteryarn.jpg Helter Skelter yarn works up beautifully in double crochet %}
+{% asset_img helterskeltertr.jpg Helter Skelter yarn works up beautifully in treble crochet %}
 
 With the weather changing and getting warmer I decided it was time to stop wearing my hat and hook up something a little cooler for the school run. I still want my ears covered in the frosty mornings, but like having my hair tied up away from my face. I settled on a pattern using shell stitch, which shows off the colours of the yarn rather nicely without too much fussy textured detail.
 
-{% asset_img earwarmer.jpg Nice warm ears %}
+{% asset_img earwarmerflat.jpg The ear warmer is made in shell stitch along the width of the piece %}
 
 <h3>Free Pattern: Shell stitch ear warmer</h3>
 
@@ -57,4 +57,6 @@ Rows 3 &amp; 4 set the pattern for the piece. Repeat the pattern until 0.5" (1cm
 
 Last row. ch1, dc, &#42;(dc, htr, tr, htr, dc, dc)&#42; repeat the section between the &#42;s twice
 
-Joining. Fold the piece in half with right sides facing. Slip stitch the ends together in the outside loops. Turn the head band inside out. All done! 
+Joining. Fold the piece in half with right sides facing. Slip stitch the ends together in the outside loops. Turn the head band inside out. All done!
+
+{% asset_img earwarmer.jpg Nice and warm ears %}
