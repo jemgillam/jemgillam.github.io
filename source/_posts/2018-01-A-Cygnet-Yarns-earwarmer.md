@@ -6,6 +6,8 @@ tags:
 categories:
 - Patterns
 ---
+Update: Cygnet have now released their new Helter Skelter yarn in several gorgeous colourways, check them out [on their website](https://www.cygnetyarns.com/helter-skelter-chunky).
+
 {% asset_img helterskelteryarn.jpg A gorgeous yarn %}
 
 Recently, I was fortunate enough to receive some brand new yarn from Cygnet Yarns. This is a chunky weight multicoloured yarn called Helter Skelter. I've looked on their site and it doesn't seem to be released yet!
